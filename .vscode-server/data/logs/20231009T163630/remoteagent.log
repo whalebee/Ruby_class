@@ -1,0 +1,16 @@
+2023-10-09 16:36:30.836 [info] 
+
+
+
+
+2023-10-09 16:36:30.837 [info] Extension host agent started.
+2023-10-09 16:36:30.855 [info] [127.0.0.1][5d1e5286][ManagementConnection] New connection established.
+2023-10-09 16:36:30.857 [info] Started initializing default profile extensions in extensions installation folder. file:///home/whalebee/.vscode-server/extensions
+2023-10-09 16:36:30.961 [info] [127.0.0.1][fd3dda7d][ExtensionHostConnection] New connection established.
+2023-10-09 16:36:31.094 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/whalebee/.vscode-server/extensions
+2023-10-09 16:36:32.120 [info] [127.0.0.1][fd3dda7d][ExtensionHostConnection] <176> Launched Extension Host Process.
+2023-10-09 16:36:45.822 [info] [127.0.0.1][5d1e5286][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-09 16:36:45.846 [info] [127.0.0.1][fd3dda7d][ExtensionHostConnection] <176> Extension Host Process exited with code: 0, signal: null.
+2023-10-09 16:36:46.873 [info] [127.0.0.1][b84a5822][ManagementConnection] New connection established.
+2023-10-09 16:36:47.401 [info] [127.0.0.1][a3cad00c][ExtensionHostConnection] New connection established.
+2023-10-09 16:36:47.459 [info] [127.0.0.1][a3cad00c][ExtensionHostConnection] <237> Launched Extension Host Process.

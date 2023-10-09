@@ -95,3 +95,56 @@ cd helloworld/
 ls
 cd ..
 git branch -M main
+wsl --set-version Ubuntu-18.04 2
+git pull 
+ls
+cd whalebee/
+ls
+git pull
+git --version
+git branch
+git push origin master
+git push -u origin master
+ls
+ls -al
+git add .
+git commit -m "first"
+git remote add origin https://github.com/whalebee/Ruby_prac.git
+git push -u origin master
+git checkout -b 'master'
+git push origin master
+git checkout -b 'master'
+rm -rf .git
+git init
+git add . $ git commit -m "first"
+git add .
+git status
+ls helloworld/ -al
+cd helloworld/
+ls
+rm -rf .git
+ls -al
+cd ..
+git status
+git
+git status
+ls -al
+rm -rf .git
+ls -al
+git status
+ls -al
+git init
+git status
+git add .
+git status
+git add .
+git commit -m "first"
+git log
+git remote add origin https://github.com/whalebee/Ruby_class.git
+git status
+git commit -m "first"
+git push
+git push origin master
+git remote show
+git remote
+git remote show origin
