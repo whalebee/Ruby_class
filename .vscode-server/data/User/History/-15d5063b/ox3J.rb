@@ -9,6 +9,6 @@ Rails.application.routes.draw do
   # root "posts#index"
   get '/index' => "home#index"
   get '/write_page' => "home#write_page"
-  post '/create' => "home#create"
+  get '/create' => "home#create"
   get '/add' => "calculator#add"
 end

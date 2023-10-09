@@ -1,0 +1,171 @@
+2023-10-10 06:20:05.437 [info] Log level: Info
+2023-10-10 06:20:05.437 [info] Validating found git in: "git"
+2023-10-10 06:20:05.437 [info] Using git "2.17.1" from "git"
+2023-10-10 06:20:05.437 [info] > git rev-parse --show-toplevel [38ms]
+2023-10-10 06:20:05.441 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2023-10-10 06:20:05.471 [info] Open repository: /home/whalebee
+2023-10-10 06:20:05.532 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-10 06:20:05.532 [info] > git config --get commit.template [25ms]
+2023-10-10 06:20:05.572 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [22ms]
+2023-10-10 06:20:05.594 [info] > git rev-parse --show-toplevel [24ms]
+2023-10-10 06:20:05.620 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-10 06:20:05.644 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-10 06:20:05.669 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-10 06:20:05.694 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-10 06:20:05.725 [info] > git rev-parse --show-toplevel [11ms]
+2023-10-10 06:20:05.747 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2023-10-10 06:20:05.769 [info] Open repository: /home/whalebee/.rbenv
+2023-10-10 06:20:05.811 [info] > git rev-parse --show-toplevel [24ms]
+2023-10-10 06:20:05.834 [info] > git config --get commit.template [27ms]
+2023-10-10 06:20:05.857 [info] > git rev-parse --show-toplevel [25ms]
+2023-10-10 06:20:05.864 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2023-10-10 06:20:05.899 [info] > git status -z -uall [15ms]
+2023-10-10 06:20:05.951 [info] > git config --get commit.template [25ms]
+2023-10-10 06:20:06.023 [info] > git status -z -uall [432ms]
+2023-10-10 06:20:06.024 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [73ms]
+2023-10-10 06:20:06.125 [info] > git status -z -uall [83ms]
+2023-10-10 06:20:06.125 [info] > git check-ignore -v -z --stdin [31ms]
+2023-10-10 06:20:06.134 [info] > git config --get commit.template [19ms]
+2023-10-10 06:20:06.349 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [196ms]
+2023-10-10 06:20:06.441 [info] > git show --textconv :helloworld/db/migrate/20231009082226_create_posts.rb [23ms]
+2023-10-10 06:20:06.446 [info] > git ls-files --stage -- /home/whalebee/helloworld/db/migrate/20231009082226_create_posts.rb [7ms]
+2023-10-10 06:20:06.527 [info] > git status -z -uall [158ms]
+2023-10-10 06:20:06.891 [info] > git fetch [1420ms]
+2023-10-10 06:20:06.977 [info] > git config --get commit.template [52ms]
+2023-10-10 06:20:06.985 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-10-10 06:20:07.205 [info] > git status -z -uall [151ms]
+2023-10-10 06:20:07.272 [info] > git fetch [1503ms]
+2023-10-10 06:20:07.272 [info] From https://github.com/rbenv/rbenv
+ * [new branch]      dependabot/github_actions/redhat-plumbers-in-action/differential-shellcheck-5 -> origin/dependabot/github_actions/redhat-plumbers-in-action/differential-shellcheck-5
+2023-10-10 06:20:07.465 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [145ms]
+2023-10-10 06:20:07.465 [info] > git config --get commit.template [167ms]
+2023-10-10 06:20:07.506 [info] > git status -z -uall [15ms]
+2023-10-10 06:20:11.952 [info] > git config --get commit.template [24ms]
+2023-10-10 06:20:11.959 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-10-10 06:20:12.123 [info] > git status -z -uall [141ms]
+2023-10-10 06:21:41.118 [info] > git config --get commit.template [25ms]
+2023-10-10 06:21:41.125 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2023-10-10 06:21:41.293 [info] > git status -z -uall [144ms]
+2023-10-10 06:21:44.090 [info] > git check-ignore -v -z --stdin [11ms]
+2023-10-10 06:21:45.370 [info] > git check-ignore -v -z --stdin [10ms]
+2023-10-10 06:21:46.370 [info] > git config --get commit.template [25ms]
+2023-10-10 06:21:46.377 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-10-10 06:21:46.541 [info] > git status -z -uall [141ms]
+2023-10-10 06:21:47.695 [info] > git check-ignore -v -z --stdin [29ms]
+2023-10-10 06:21:51.620 [info] > git config --get commit.template [27ms]
+2023-10-10 06:21:51.626 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2023-10-10 06:21:51.789 [info] > git status -z -uall [139ms]
+2023-10-10 06:21:56.869 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [27ms]
+2023-10-10 06:21:56.899 [info] > git config --get commit.template [31ms]
+2023-10-10 06:21:57.070 [info] > git status -z -uall [142ms]
+2023-10-10 06:21:58.401 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [702ms]
+2023-10-10 06:21:58.431 [info] > git config --get commit.template [4ms]
+2023-10-10 06:21:58.492 [info] > git config --get commit.template [30ms]
+2023-10-10 06:21:58.501 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [12ms]
+2023-10-10 06:21:58.673 [info] > git status -z -uall [145ms]
+2023-10-10 06:21:58.717 [info] > git push [6ms]
+2023-10-10 06:21:58.717 [info] fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+2023-10-10 06:21:58.784 [info] > git config --get commit.template [10ms]
+2023-10-10 06:21:58.784 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [37ms]
+2023-10-10 06:21:58.965 [info] > git status -z -uall [152ms]
+2023-10-10 06:22:00.965 [info] > git ls-files --stage -- /home/whalebee/helloworld/db/migrate/20231009082226_create_posts.rb [6ms]
+2023-10-10 06:22:01.057 [info] > git show --textconv :helloworld/db/migrate/20231009082226_create_posts.rb [62ms]
+2023-10-10 06:22:01.058 [info] > git config --get commit.template [30ms]
+2023-10-10 06:22:01.087 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [31ms]
+2023-10-10 06:22:01.252 [info] > git status -z -uall [138ms]
+2023-10-10 06:22:02.163 [info] > git config --get commit.template [28ms]
+2023-10-10 06:22:02.164 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [58ms]
+2023-10-10 06:22:02.170 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-10-10 06:22:02.333 [info] > git status -z -uall [135ms]
+2023-10-10 06:22:05.844 [info] > git for-each-ref --format %(refname:short)%00%(upstream:short) refs/heads [10ms]
+2023-10-10 06:22:05.881 [info] > git checkout -q --track origin/master [8ms]
+2023-10-10 06:22:05.881 [info] fatal: A branch named 'master' already exists.
+2023-10-10 06:22:05.940 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [30ms]
+2023-10-10 06:22:05.943 [info] > git config --get commit.template [4ms]
+2023-10-10 06:22:06.109 [info] > git status -z -uall [138ms]
+2023-10-10 06:22:08.028 [info] > git config --get commit.template [30ms]
+2023-10-10 06:22:08.036 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-10-10 06:22:08.203 [info] > git status -z -uall [139ms]
+2023-10-10 06:22:08.893 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2023-10-10 06:22:09.879 [info] > git for-each-ref --format %(refname:short)%00%(upstream:short) refs/heads [8ms]
+2023-10-10 06:22:11.363 [info] > git checkout -q --track origin/main [1456ms]
+2023-10-10 06:22:11.363 [info] error: Your local changes to the following files would be overwritten by checkout:
+	.bash_history
+	.vscode-server/data/User/workspaceStorage/9f95e7be9231f2f138f7073472332cd7/vscode.lock
+	.vscode-server/data/logs/20231009T163630/exthost2/remoteexthost.log
+	.vscode-server/data/logs/20231009T163630/exthost2/vscode.git/Git.log
+	.vscode-server/data/logs/20231009T163630/remoteagent.log
+	helloworld/app/controllers/home_controller.rb
+	helloworld/app/views/home/index.erb
+	helloworld/config/routes.rb
+Please commit your changes or stash them before you switch branches.
+Aborting
+2023-10-10 06:22:11.420 [info] > git config --get commit.template [29ms]
+2023-10-10 06:22:11.448 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [29ms]
+2023-10-10 06:22:11.610 [info] > git status -z -uall [135ms]
+2023-10-10 06:22:14.786 [info] > git config --get commit.template [29ms]
+2023-10-10 06:22:14.794 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2023-10-10 06:22:14.957 [info] > git status -z -uall [137ms]
+2023-10-10 06:22:18.135 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2023-10-10 06:22:18.918 [info] > git for-each-ref --format %(refname:short)%00%(upstream:short) refs/heads [8ms]
+2023-10-10 06:22:19.032 [info] > git checkout -q --track origin/main [87ms]
+2023-10-10 06:22:19.032 [info] error: Your local changes to the following files would be overwritten by checkout:
+	.bash_history
+	.vscode-server/data/User/workspaceStorage/9f95e7be9231f2f138f7073472332cd7/vscode.lock
+	.vscode-server/data/logs/20231009T163630/exthost2/remoteexthost.log
+	.vscode-server/data/logs/20231009T163630/exthost2/vscode.git/Git.log
+	.vscode-server/data/logs/20231009T163630/remoteagent.log
+	helloworld/app/controllers/home_controller.rb
+	helloworld/app/views/home/index.erb
+	helloworld/config/routes.rb
+Please commit your changes or stash them before you switch branches.
+Aborting
+2023-10-10 06:22:19.088 [info] > git config --get commit.template [27ms]
+2023-10-10 06:22:19.095 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-10-10 06:22:19.257 [info] > git status -z -uall [135ms]
+2023-10-10 06:22:21.255 [info] > git config --get commit.template [30ms]
+2023-10-10 06:22:21.264 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2023-10-10 06:22:21.429 [info] > git status -z -uall [136ms]
+2023-10-10 06:22:30.002 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [26ms]
+2023-10-10 06:22:30.003 [info] > git config --get commit.template [50ms]
+2023-10-10 06:22:30.028 [info] > git for-each-ref --format %(refname:short)%00%(upstream:short) refs/heads [28ms]
+2023-10-10 06:22:30.148 [info] > git checkout -q --track origin/main [93ms]
+2023-10-10 06:22:30.148 [info] error: Your local changes to the following files would be overwritten by checkout:
+	.bash_history
+	.vscode-server/data/User/workspaceStorage/9f95e7be9231f2f138f7073472332cd7/vscode.lock
+	.vscode-server/data/logs/20231009T163630/exthost2/remoteexthost.log
+	.vscode-server/data/logs/20231009T163630/exthost2/vscode.git/Git.log
+	.vscode-server/data/logs/20231009T163630/remoteagent.log
+	helloworld/app/controllers/home_controller.rb
+	helloworld/app/views/home/index.erb
+	helloworld/config/routes.rb
+Please commit your changes or stash them before you switch branches.
+Aborting
+2023-10-10 06:22:30.176 [info] > git status -z -uall [149ms] (cancelled)
+2023-10-10 06:22:30.204 [info] > git config --get commit.template [29ms]
+2023-10-10 06:22:30.211 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-10-10 06:22:30.374 [info] > git status -z -uall [138ms]
+2023-10-10 06:22:33.355 [info] > git show --textconv :helloworld/app/views/home/write_page.erb [24ms]
+2023-10-10 06:22:33.361 [info] > git ls-files --stage -- /home/whalebee/helloworld/app/views/home/write_page.erb [7ms]
+2023-10-10 06:22:33.589 [info] > git check-ignore -v -z --stdin [7ms]
+2023-10-10 06:22:35.202 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [25ms]
+2023-10-10 06:22:35.205 [info] > git config --get commit.template [5ms]
+2023-10-10 06:22:35.365 [info] > git status -z -uall [137ms]
+2023-10-10 06:22:37.521 [info] > git check-ignore -v -z --stdin [8ms]
+2023-10-10 06:22:40.469 [info] > git show --textconv HEAD:helloworld/test/models/post_test.rb [52ms]
+2023-10-10 06:22:40.471 [info] > git ls-tree -l HEAD -- /home/whalebee/helloworld/test/models/post_test.rb [29ms]
+2023-10-10 06:22:40.497 [info] > git config --get commit.template [30ms]
+2023-10-10 06:22:40.504 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2023-10-10 06:22:40.672 [info] > git status -z -uall [141ms]
+2023-10-10 06:22:40.921 [info] > git check-ignore -v -z --stdin [7ms]
+2023-10-10 06:22:43.855 [info] > git show --textconv HEAD:helloworld/db/schema.rb [28ms]
+2023-10-10 06:22:43.864 [info] > git ls-tree -l HEAD -- /home/whalebee/helloworld/db/schema.rb [11ms]
+2023-10-10 06:22:44.118 [info] > git show --textconv HEAD:helloworld/config/routes.rb [26ms]
+2023-10-10 06:22:44.123 [info] > git ls-tree -l HEAD -- /home/whalebee/helloworld/config/routes.rb [8ms]
+2023-10-10 06:22:44.656 [info] > git check-ignore -v -z --stdin [6ms]
+2023-10-10 06:22:45.725 [info] > git config --get commit.template [25ms]
+2023-10-10 06:22:45.734 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2023-10-10 06:22:45.896 [info] > git status -z -uall [137ms]

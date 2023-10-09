@@ -1,6 +1,6 @@
 class HomeController < ApplicationController
     def index
-        @posts = Post.all
+        @message = '네이버로 가는 링크입니다.'
     end
     
     def write_page
@@ -12,6 +12,5 @@ class HomeController < ApplicationController
         post.title = params[:title]
         post.content = params[:content]
         post.save
-        redirect_to "/index"
     end
 end

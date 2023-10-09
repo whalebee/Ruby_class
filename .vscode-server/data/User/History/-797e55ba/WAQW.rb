@@ -12,6 +12,7 @@ class HomeController < ApplicationController
         post.title = params[:title]
         post.content = params[:content]
         post.save
-        redirect_to "/index"
+        
+        redirect_to '/index'
     end
 end

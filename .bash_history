@@ -148,3 +148,18 @@ git push origin master
 git remote show
 git remote
 git remote show origin
+ls -al
+git status
+git add .
+git commit --help
+git commit -a "first"
+git push origin master
+rails generate model post
+ls
+cd helloworld/
+rails generate model post
+rake db:migrate
+ls
+cd helloworld/
+ls
+rails s

@@ -12,3 +12,180 @@
 2023-10-09 16:37:04.910 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1192
 2023-10-09 16:37:10.270 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1192
 2023-10-09 16:37:17.956 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1192
+2023-10-09 16:37:28.223 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1192
+2023-10-09 16:37:33.464 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1192
+2023-10-09 16:37:38.708 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1192
+2023-10-09 16:37:46.513 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1192
+2023-10-09 16:37:50.336 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-10-09 16:38:25.354 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1192
+2023-10-09 16:38:30.598 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1192
+2023-10-09 16:38:35.841 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1192
+2023-10-09 16:38:41.086 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1192
+2023-10-09 16:38:46.334 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1192
+2023-10-09 16:38:51.586 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1192
+2023-10-09 16:41:57.794 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1192
+2023-10-09 16:41:58.330 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1192
+2023-10-09 16:42:02.413 [info] Extension host terminating: received terminate message from renderer
+2023-10-09 16:42:02.414 [info] Lock '/home/whalebee/.vscode-server/data/User/workspaceStorage/9f95e7be9231f2f138f7073472332cd7/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-10-09 16:42:02.461 [error] Canceled: Canceled
+	at new m (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:126:57216)
+	at i.U (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:135:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:135:8315)
+	at n.g (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:126:83747)
+	at n.executeCommand (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at b.registerCommand.description (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:126:82506)
+	at n.h (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:126:84283)
+	at n.g (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:126:83278)
+	at n.executeCommand (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at Object.executeCommand (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:141:21282)
+	at s.D [as value] (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/extensions/git/dist/main.js:2:1312800)
+	at c.z (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.A (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/extensions/git/dist/main.js:2:1328588)
+	at /home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/extensions/git/dist/main.js:2:1333429
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/extensions/git/dist/main.js:2:1333415)
+	at w.<anonymous> (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:122:3521)
+	at w.dispose (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:122:3618)
+	at w.<anonymous> (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/extensions/git/dist/main.js:2:1314812)
+	at w.dispose (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:122:3618)
+	at o (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:137:9846)
+	at /home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:137:7796
+	at Array.map (<anonymous>)
+	at s.Y (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:137:7784)
+	at s.terminate (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:137:8054)
+	at o.terminate (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at s.value (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:154:7848)
+	at c.z (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at g.fire (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:151:19173)
+	at c.acceptFrame (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:151:18979)
+	at a.n (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:151:17612)
+	at /home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:151:14959
+	at Socket.f (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:151:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-10-09 16:42:02.461 [error] Canceled: Canceled
+	at new m (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:126:57216)
+	at i.U (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:135:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:135:8315)
+	at n.g (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:126:83747)
+	at n.executeCommand (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at b.registerCommand.description (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:126:82506)
+	at n.h (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:126:84283)
+	at n.g (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:126:83278)
+	at n.executeCommand (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at Object.executeCommand (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:141:21282)
+	at s.D [as value] (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/extensions/git/dist/main.js:2:1312800)
+	at c.z (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.A (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/extensions/git/dist/main.js:2:1328588)
+	at /home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/extensions/git/dist/main.js:2:1333429
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/extensions/git/dist/main.js:2:1333415)
+	at w.<anonymous> (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:122:3521)
+	at w.dispose (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:122:3618)
+	at w.<anonymous> (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/extensions/git/dist/main.js:2:1314812)
+	at w.dispose (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:122:3618)
+	at o (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:137:9846)
+	at /home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:137:7796
+	at Array.map (<anonymous>)
+	at s.Y (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:137:7784)
+	at s.terminate (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:137:8054)
+	at o.terminate (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at s.value (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:154:7848)
+	at c.z (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at g.fire (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:151:19173)
+	at c.acceptFrame (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:151:18979)
+	at a.n (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:151:17612)
+	at /home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:151:14959
+	at Socket.f (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:151:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-10-09 16:42:02.461 [error] Canceled: Canceled
+	at new m (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:126:57216)
+	at i.U (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:135:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:135:8315)
+	at n.g (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:126:83747)
+	at n.executeCommand (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at b.registerCommand.description (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:126:82506)
+	at n.h (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:126:84283)
+	at n.g (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:126:83278)
+	at n.executeCommand (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at Object.executeCommand (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:141:21282)
+	at set b [as b] (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/extensions/github/dist/extension.js:2:714415)
+	at /home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/extensions/github/dist/extension.js:2:715056
+	at s.value (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/extensions/git/dist/main.js:2:1402040)
+	at c.z (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.A (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/extensions/git/dist/main.js:2:1328588)
+	at /home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/extensions/git/dist/main.js:2:1333429
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/extensions/git/dist/main.js:2:1333415)
+	at w.<anonymous> (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:122:3521)
+	at w.dispose (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:122:3618)
+	at w.<anonymous> (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/extensions/git/dist/main.js:2:1314812)
+	at w.dispose (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:122:3618)
+	at o (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:137:9846)
+	at /home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:137:7796
+	at Array.map (<anonymous>)
+	at s.Y (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:137:7784)
+	at s.terminate (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:137:8054)
+	at o.terminate (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at s.value (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:154:7848)
+	at c.z (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at g.fire (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:151:19173)
+	at c.acceptFrame (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:151:18979)
+	at a.n (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:151:17612)
+	at /home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:151:14959
+	at Socket.f (/home/whalebee/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/workbench/api/node/extensionHostProcess.js:151:12873)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-10-09 16:42:02.461 [info] Extension host with pid 237 exiting with code 0
